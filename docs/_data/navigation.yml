@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "Get Started"
-    url: https://aka.ms/devkit/tutorial/start
-  - title: "Docs"
-    url: /docs/projects/
-  - title: "Projects"
-    url: /docs/projects/
-  - title: "Blog"
-    url: https://devblogs.microsoft.com/iotdev/
-  - title: "v2.0.0"
-    url: https://github.com/microsoft/devkit-sdk/releases/
-    class: "masthead-circle"
+    url: https://aka.ms/iot-devkit
+#  - title: "Docs"
+#    url: /docs/projects/
+#  - title: "Projects"
+#    url: /docs/projects/
+#  - title: "Blog"
+#    url: https://devblogs.microsoft.com/iotdev/
+#  - title: "v2.0.0"
+#    url: https://github.com/microsoft/devkit-sdk/releases/
+#    class: "masthead-circle"
 
 
 # documentation links
